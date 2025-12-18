@@ -1,0 +1,13 @@
+{
+  "itemGroup.boonacrity": "Example Mod Tab",
+  "block.boonacrity.example_block": "Example Block",
+  "item.boonacrity.example_item": "Example Item",
+
+  "boonacrity.configuration.title": "Boonacrity Configs",
+  "boonacrity.configuration.section.boonacrity.common.toml": "Boonacrity Configs",
+  "boonacrity.configuration.section.boonacrity.common.toml.title": "Boonacrity Configs",
+  "boonacrity.configuration.items": "Item List",
+  "boonacrity.configuration.logDirtBlock": "Log Dirt Block",
+  "boonacrity.configuration.magicNumberIntroduction": "Magic Number Text",
+  "boonacrity.configuration.magicNumber": "Magic Number"
+}
